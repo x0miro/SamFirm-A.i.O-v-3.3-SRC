@@ -7,7 +7,7 @@ SamFirm A.I.O v3.3 is a Samsung firmware management and servicing application de
 This repository contains the complete source code of the project and is intended for developers, researchers, and mobile software enthusiasts who wish to study, customize, maintain, or extend the application.
 
 <p align="center">
-  <img src="screenshot.png" alt="SamFirm A.I.O v3.3" width="900">
+  <img src="screenshot.PNG" alt="SamFirm A.I.O v3.3" width="900">
 </p>
 
 
